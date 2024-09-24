@@ -1,0 +1,53 @@
+ h2, h3{
+
+    color: rgb(7, 100, 7);
+}
+
+body{
+
+    background-color: bisque;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    max-width: 900px;
+    margin: auto;
+    padding: 0%;
+}
+h1{
+    font-size: 30px;
+    float: right;
+    color: black;
+    
+}
+header img{
+   width: 200px;
+   height: 200px;
+   border-radius: 100%;  
+   border: 2px solid rgb(8, 8, 8);      
+   
+}
+header{
+    margin-top: 15px;
+}
+article img{
+  width: 100%;
+
+}
+article{
+    border: 3px solid rgb(138, 145, 45);
+    border-radius: 8px;
+    padding: 10px;
+    
+}
+p{ 
+    text-align: justify;
+}
+footer{
+    text-align: center;
+}
+li{
+    display: inline;
+    margin-right: 50px;
+}
+a{
+    text-decoration: none;
+    color: rgb(0, 0, 0);
+}
